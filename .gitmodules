@@ -1,0 +1,12 @@
+[submodule "Gongbi"]
+	path = Gongbi
+	url = https://git.qiuwen.wiki/qiuwen/Gongbi
+
+[submodule "Write"]
+	path = Write
+	url = https://git.qiuwen.wiki/qiuwen/Write
+
+[submodule "Vector"]
+	path = Vector
+	url = https://git.qiuwen.wiki/mirror/Vector
+	branch = REL1_38
