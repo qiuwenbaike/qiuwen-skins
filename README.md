@@ -1,3 +1,3 @@
 # *Qiuwen* skins
 
-The repo stores all MediaWiki skins deployed to *Qiuwen* websites.
+This repo stores all MediaWiki skins deployed to *Qiuwen* websites.
