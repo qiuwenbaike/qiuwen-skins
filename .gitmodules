@@ -9,4 +9,4 @@
 [submodule "Vector"]
 	path = Vector
 	url = https://git.qiuwen.wiki/mirror/Vector
-	branch = REL1_38
+	branch = REL1_39
