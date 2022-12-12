@@ -10,3 +10,6 @@
 	path = Vector
 	url = https://git.qiuwen.wiki/mirror/Vector
 	branch = REL1_39
+[submodule "Foreground"]
+	path = Foreground
+	url = https://git.qiuwen.wiki/Fork/mediawiki-skins-Foreground
