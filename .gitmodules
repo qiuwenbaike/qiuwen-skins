@@ -14,9 +14,3 @@
 [submodule "Citizen"]
 	path = Citizen
 	url = https://git.qiuwen.wiki/Fork/mediawiki-skins-Citizen
-[submodule "TwoColConflict"]
-	path = TwoColConflict
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-TwoColConflict
-[submodule "RevisionSlider"]
-	path = RevisionSlider
-	url = https://git.qiuwen.wiki/Mirror/mediawiki-extensions-RevisionSlider
