@@ -5,7 +5,7 @@
 [submodule "Vector"]
 	path = Vector
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-skins-Vector
-	branch = REL1_40
+	branch = REL1_41
 
 [submodule "Citizen"]
 	path = Citizen
