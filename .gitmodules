@@ -10,4 +10,4 @@
 [submodule "Citizen"]
 	path = Citizen
 	url = https://git.qiuwen.net.cn/Fork/CitizenNew
-	branch = master
+	branch = main
