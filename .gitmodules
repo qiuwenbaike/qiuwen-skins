@@ -7,7 +7,7 @@
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-skins-Vector
 	branch = REL1_42
 
-[submodule "CitizenNew"]
-	path = CitizenNew
+[submodule "Citizen"]
+	path = Citizen
 	url = https://git.qiuwen.net.cn/Fork/CitizenNew
 	branch = master
