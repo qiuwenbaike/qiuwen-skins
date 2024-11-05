@@ -9,5 +9,5 @@
 
 [submodule "Citizen"]
 	path = Citizen
-	url = https://git.qiuwen.net.cn/Fork/CitizenNew
+	url = https://git.qiuwen.net.cn/Fork/mediawiki-skins-Citizen/
 	branch = main
